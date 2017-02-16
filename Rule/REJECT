@@ -27,7 +27,6 @@ DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,tns.simba.taobao.com
 DOMAIN-SUFFIX,userimg.qunar.com
 DOMAIN-SUFFIX,yiliao.hupan.com
-
 // Baidu
 DOMAIN-SUFFIX,a.baidu.com
 DOMAIN-SUFFIX,adm.baidu.com
@@ -81,7 +80,6 @@ DOMAIN-SUFFIX,wn.pos.baidu.com
 DOMAIN-SUFFIX,zhanzhang.baidu.com
 DOMAIN-SUFFIX,znsv.baidu.com
 DOMAIN-SUFFIX,zz.bdstatic.com
-
 // Google
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,admob.com
@@ -115,7 +113,6 @@ DOMAIN,keplerapi.jd.com
 DOMAIN,policy.jd.com
 DOMAIN,x.jd.com
 DOMAIN-SUFFIX,stat.m.jd.com
-
 // kugou
 DOMAIN-SUFFIX,ads.service.kugou.com
 DOMAIN-SUFFIX,d.kugou.com
@@ -124,7 +121,6 @@ DOMAIN-SUFFIX,log.stat.kugou.com
 DOMAIN-SUFFIX,mvads.kugou.com
 DOMAIN-SUFFIX,rtmonitor.kugou.com
 DOMAIN-SUFFIX,update.mobile.kugou.com
-
 // Kuwo
 DOMAIN-SUFFIX,apk.shouji.koowo.com
 DOMAIN-SUFFIX,g.koowo.com
@@ -133,7 +129,6 @@ DOMAIN-SUFFIX,log.kuwo.cn
 DOMAIN-SUFFIX,updatepage.kuwo.cn
 DOMAIN-SUFFIX,wa.kuwo.cn
 DOMAIN-SUFFIX,webstat.kuwo.cn
-
 // mp4ba
 DOMAIN-SUFFIX,37wan.cn
 DOMAIN-SUFFIX,fd7c.com
@@ -143,7 +138,6 @@ DOMAIN-SUFFIX,shentus.com
 DOMAIN-SUFFIX,tiangoutai.com
 DOMAIN-SUFFIX,twcczhu.com
 DOMAIN-SUFFIX,youle55.com
-
 // Meitu
 DOMAIN-SUFFIX,a.koudai.com
 DOMAIN-SUFFIX,corp.meitu.com
@@ -152,7 +146,6 @@ DOMAIN-SUFFIX,message.meitu.com
 DOMAIN-SUFFIX,xiuxiu.android.dl.meitu.com
 DOMAIN-SUFFIX,xiuxiu.mobile.meitudata.com
 DOMAIN-SUFFIX,tuiguang.meitu.com
-
 // QQ
 DOMAIN-SUFFIX,act.qq.com
 DOMAIN-SUFFIX,ad.qun.qq.com
@@ -178,7 +171,6 @@ DOMAIN-SUFFIX,report.qq.com
 DOMAIN-SUFFIX,tajs.qq.com
 DOMAIN-SUFFIX,tcss.qq.com
 DOMAIN-SUFFIX,tpush.html5.qq.com
-
 // Sina
 DOMAIN-SUFFIX,ad.sina.com.cn
 DOMAIN-SUFFIX,adimg.mobile.sina.cn
@@ -212,7 +204,6 @@ DOMAIN-SUFFIX,trends.mobile.sina.cn
 DOMAIN-SUFFIX,wbclick.mobile.sina.cn
 DOMAIN-SUFFIX,wbpctips.mobile.sina.cn
 DOMAIN-SUFFIX,zymo.mps.weibo.com
-
 // Shumilou
 DOMAIN-SUFFIX,70e.com
 DOMAIN-SUFFIX,drdwy.com
@@ -222,7 +213,6 @@ DOMAIN-SUFFIX,sanya1.com
 DOMAIN-SUFFIX,stats.magicwindow.cn
 DOMAIN-SUFFIX,xyrkl.com
 DOMAIN-SUFFIX,zhuanfakong.com
-
 // Sougou
 DOMAIN-SUFFIX,123.sogou.com
 DOMAIN-SUFFIX,brand.sogou.com
@@ -233,7 +223,6 @@ DOMAIN-SUFFIX,inte.sogou.com
 DOMAIN-SUFFIX,p.inte.sogou.com
 DOMAIN-SUFFIX,pb.sogou.com
 DOMAIN-SUFFIX,wan.sogou.com
-
 // Weifeng
 DOMAIN-SUFFIX,fengbuy.com
 DOMAIN-SUFFIX,tutuapp.com
@@ -247,13 +236,10 @@ DOMAIN-SUFFIX,cds.51y5.net
 DOMAIN-SUFFIX,ios-dc.51y5.net
 DOMAIN-SUFFIX,news-img.51y5.net
 DOMAIN-SUFFIX,wkanc.com
-
 // Xunlei
 DOMAIN,liveupdate.mac.sandai.net
-
 // 12306
 DOMAIN-SUFFIX,ad.12306.cn
-
 // 163
 DOMAIN-SUFFIX,adgeo.163.com
 DOMAIN-SUFFIX,bobo.163.com
@@ -273,7 +259,6 @@ DOMAIN-SUFFIX,rlogs.youdao.com
 DOMAIN-SUFFIX,stat.ws.126.net
 DOMAIN-SUFFIX,static.flv.uuzuonline.com
 DOMAIN-SUFFIX,wanproxy.127.net
-
 // 360
 DOMAIN-SUFFIX,3600.com
 DOMAIN-SUFFIX,adapi.shouji.360.cn
@@ -287,7 +272,6 @@ DOMAIN-SUFFIX,soft.data.weather.360.cn
 DOMAIN-SUFFIX,stat.360safe.com
 DOMAIN-SUFFIX,stat.m.360.cn
 DOMAIN-SUFFIX,update.360safe.com
-
 // Ads in Video apps
 // iqiyi
 DOMAIN-SUFFIX,ad.m.iqiyi.com
@@ -297,7 +281,6 @@ DOMAIN-SUFFIX,msg.video.qiyi.com
 DOMAIN-SUFFIX,msg2.video.qiyi.com
 DOMAIN-SUFFIX,msga.cupid.iqiyi.com
 DOMAIN-SUFFIX,rcd.iqiyi.com
-
 // Youku & Tudou
 DOMAIN-SUFFIX,actives.youku.com
 DOMAIN-SUFFIX,ad.api.3g.tudou.com
@@ -335,7 +318,6 @@ DOMAIN-SUFFIX,minisite.letv.com
 DOMAIN-SUFFIX,pro.hoye.letv.com
 DOMAIN-SUFFIX,pro.letv.com
 DOMAIN-SUFFIX,stat.letv.com
-
 // Youtube
 DOMAIN-SUFFIX,ads.youtube.com
 DOMAIN-SUFFIX,azabu-u.ac.jp
@@ -347,7 +329,6 @@ DOMAIN-SUFFIX,m-78.jp
 DOMAIN-SUFFIX,nichibenren.or.jp
 DOMAIN-SUFFIX,nicorette.co.kr
 DOMAIN-SUFFIX,shizen-no-megumi.com
-
 // sohu
 DOMAIN-SUFFIX,agn.aty.sohu.com
 DOMAIN-SUFFIX,data.vod.itc.cn
@@ -355,12 +336,10 @@ DOMAIN-SUFFIX,m.aty.sohu.com
 DOMAIN-SUFFIX,mmg.aty.sohu.com
 DOMAIN-SUFFIX,pv.sohu.com
 DOMAIN-SUFFIX,statcounter.com
-
 // pptv
 DOMAIN-SUFFIX,asimgs.pplive.cn
 DOMAIN-SUFFIX,de.as.pptv.com
 DOMAIN-SUFFIX,jp.as.pptv.com
-
 // fenghuang
 DOMAIN-SUFFIX,mfp.deliver.ifeng.com
 DOMAIN-SUFFIX,stadig.ifeng.com
@@ -389,7 +368,6 @@ DOMAIN-SUFFIX,static.ku6.com
 DOMAIN-SUFFIX,t.cr-nielsen.com
 DOMAIN-SUFFIX,union.6.cn
 DOMAIN-SUFFIX,x.da.hunantv.com
-
 // AD Block
 DOMAIN-SUFFIX,10up.com
 DOMAIN-SUFFIX,111cn.net
